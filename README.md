@@ -54,7 +54,7 @@ The dataset includes the following fields:
 - Supports pricing and discount strategies
 - Assists in identifying growth opportunities across regions
 
-![DMart Sales Dashboard](dashboard.png)
+![DMart Sales Dashboard](Dashboard.png)
 
 ## Conclusion
 This dashboard enables data-driven decision-making by transforming raw sales data into meaningful business insights using Power BI.
